@@ -97,4 +97,4 @@ Wakim, M & Baronio, J 2025, *Social Media Ban Q&A*, ABC Behind the News, viewed 
 # AI Use Statement
 During the planning & research phase of this activity, I have used AI to find relevant artefacts and organisation ideas.
 To ensure accuracy and consistency with the source material, I have checked the information from these sources and revised and edited the content appropriately, ensuring that it reflects my own learning and understanding.
-To ensure accuracy and consistency with the source material, I have checked the information from these sources and revised and edited the content appropriately, ensuring that it reflects my own learning and understanding.
+
