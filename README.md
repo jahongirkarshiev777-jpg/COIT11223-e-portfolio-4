@@ -40,7 +40,7 @@ I chose this artefact because it shows government regulation affecting everyday 
 
 ## Artefact 3: Scholarly Article
 
-![Journal Screenshot](PASTE_YOUR_SCREENSHOT_HERE)
+![Artefact 3](5308050232186707975_121.jpg)
 
 Source: https://link.springer.com/article/10.1007/s10676-025-09875-w
 
