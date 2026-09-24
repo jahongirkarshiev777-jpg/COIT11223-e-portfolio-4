@@ -8,7 +8,7 @@ A collection of artefacts that demonstrate what I have learnt about Censorship a
 
 ## Artefact 1: Australian Government regulation of online content
 
-![eSafety Commissioner Screenshot](PASTE_YOUR_SCREENSHOT_HERE)
+![Artefact 1](5308050232186707973_121.jpg)
 
 Source: https://www.esafety.gov.au/industry/basic-online-safety-expectations
 
