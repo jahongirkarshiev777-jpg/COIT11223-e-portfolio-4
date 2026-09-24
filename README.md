@@ -14,12 +14,14 @@ Source: https://www.esafety.gov.au/industry/basic-online-safety-expectations
 
 ### Summary of the artefact
 
-The eSafety Commissioner’s Basic Online Safety Expectations page explains how the Australian Government regulates online services through the Online Safety Act. Social media, messaging, gaming and other online providers are expected to take reasonable steps to keep Australians safe. eSafety can also require providers to report on their compliance (eSafety Commissioner 2026).
+The ‘Basic Online Safety Expectations’ page of the eSafety Commissioner explains how the Australian Government regulates online services under the Online Safety Act.
+Social media, messaging, gaming and other online providers are expected to do what they reasonably can to protect the safety of Australians. This includes being able to ask providers to provide reports about how well they’ve met these requirements (eSafety Commissioner 2026).
 
 ### Justification on why I chose the artefact
 
-I chose this artefact because it showed me that government involvement in online content is not only about removing information. It can also involve rules, transparency and accountability. This connects with censorship because regulation can influence what people see while also protecting users from serious harm. The transparency requirement stood out to me because ICT professionals need to consider accountability when managing digital systems.
-
+The reason I decided to select this artefact was to gain insight into the idea of how government could be involved with online content – more than just removing stuff.
+It highlights things like rules, transparency & accountability which have relevance to concepts like censorship as well as potentially influencing what you do or don’t see on-line while protecting against some major harms.
+The part that jumped out at me here was around the issue of transparency since it’s important for us as ICT professionals to think about things like accountability when dealing with digital systems.
 ---
 
 ## Artefact 2: ABC News – Social Media Ban Q&A
@@ -30,12 +32,14 @@ Source: https://www.abc.net.au/btn/high/social-media-ban-q-a/105892142
 
 ### Summary of the artefact
 
-The ABC Behind the News video explains Australia’s social media age restrictions for people under 16. It presents questions from young people and responses from the eSafety Commissioner about the reasons for the rules, affected platforms, age assurance and privacy. The Commissioner explains that responsibility is placed on platforms rather than penalties on under-16 users (Wakim & Baronio 2025).
+This ABC Behind the News video describes the social media age restriction policies of Australia, which apply to those aged less than 16 years. 
+It includes questions posed by young people with answers provided by the eSafety commissioner regarding rationales behind these rules, which apply to specific platforms, aspects such as ‘age-assurance’ and privacy. This includes an explanation that the responsibility lies with platforms – rather than penalties being imposed upon under 16-year-old users (Wakim & Baronio 2025).
 
 ### Justification on why I chose the artefact
 
-I chose this artefact because it shows government regulation affecting everyday digital communication. What stood out to me was the tension between safety, privacy and access to online communities. I previously thought of censorship mainly as blocking information. This example showed me that regulation can also operate through rules controlling access to services. As an ICT professional, I need to consider both intended protection and possible social consequences.
-
+The reason why I selected this artefact is that it highlights how government regulation affects our every day usage of digital communications.
+What struck me about this article was the balance of competing priorities within government policy around safety versus privacy and accessibility for members of online communities.
+I had always considered censorship of information as blocking information but seeing this method demonstrated taught me more about regulations beyond just content filtering. As an ICT Professional you have to be aware of not only what you are trying to protect people from but also potential negative side effects on society at large.
 ---
 
 ## Artefact 3: Scholarly Article
@@ -45,12 +49,15 @@ I chose this artefact because it shows government regulation affecting everyday 
 Source: https://link.springer.com/article/10.1007/s10676-025-09875-w
 
 ### Summary of the artefact
-
-Bousquet’s scholarly article examines censorship, demotion and amplification by social media companies and discusses their relationship with free expression. The article introduces the idea of Equal Opportunity for Political Influence and argues that viewpoint-based moderation can affect people’s opportunities to participate in political discussion. It also distinguishes direct censorship from demotion, such as reducing the reach of content (Bousquet 2025, p. 2).
+In this scholarly article Bousquet talks about censorship, demotion and amplification by social media companies and discusses their relationship with free expression.
+He introduces the concept of “Equal Opportunity for Political Influence” arguing that “viewpoint based moderation can affect people's opportunities to engage in political discussion” (Bousquet 2025, p. 2).
+This paper distinguishes between direct censorship, which includes decreasing the reach of some contents and demotion.
 
 ### Justification on why I chose the artefact
 
-I chose this article because it helped me understand censorship as more than simply deleting content. It showed me that reducing the visibility or reach of information can also affect public communication. I found the distinction between censorship and demotion useful because both can change what users are able to see. This connects to ICT governance because technical decisions made by platforms can influence communication and participation. It made me think more carefully about transparency, fairness and accountability when digital systems moderate information.
+I selected this particular article to understand better how censorship is defined beyond content deletion.
+The article’s explanation of the difference between censorship and demotion gave me an appreciation for how censoring/deleting information may have different impacts on public communication than merely restricting the amount of information reaching a user.
+Understanding these distinctions allowed me to further explore the potential role of Information Communication Technology (ICT) governance and its impact on public communication through technical decisions.
 
 ---
 
@@ -58,21 +65,24 @@ I chose this article because it helped me understand censorship as more than sim
 
 **Workshop:** Week 9 – Censorship and Government
 
-**Tutor:** *(Write your tutor's name)*
+**Tutor:** *(Khaleel Petrus)*
 
 **Campus:** Brisbane
 
-**Date:** *(Write your workshop date)*
+**Date:** *(Tuesday 15th Sep 2026)*
 
 ![Date:](5308050232186707998_121.jpg)
 
 ### Summary of the artefact
-
-In the workshop, I reflected on censorship and government by considering why governments and online platforms may restrict content and how these decisions affect stakeholders. The activity connected censorship with freedom of expression, online safety, privacy and accountability. We discussed how different stakeholders can view the same restriction differently, depending on whether they prioritise safety or free expression.
+The aim of this workshop session was to discuss the ways in which governments and online platforms have control over restricting online content.
+When discussing with our tutor and fellow class members during week nine there were many examples brought up.
+For instance, there are age restrictions when accessing social media sites. In these cases, governments attempt to safeguard their young citizens from having unrestricted online communication.
+Another case involved removal of content deemed harmful or illegal, as well as online platform taking more accountability regarding user’s safety. It was interesting to note that everyone views certain restrictions differently – what one group perceives as an act of safety could be seen another perspective as a limit on freedom to access information.
 
 ### Justification on why I chose the artefact
-
-The main idea that stood out to me was that censorship is not simply about removing content. A restriction may protect people from serious harm but can also affect access to information and public discussion. This challenged my earlier assumption that regulation is either necessary or negative. As a future ICT professional, I need to consider who makes decisions, what evidence supports them, how transparent the process is, and whether users can challenge decisions.
+One reason for choosing this particular workshop discussion was its relevance to the way we perceive issues such as censorship. Prior to reading up on this topic, I had generally considered censorship as being the result of Governments acting against the flow of information.
+However, after participating in this discussion, I now understand that censorship and regulation are far more nuanced than this simplistic view suggests. It is interesting to learn how even an act such as restricting access to social media could impact our privacy, freedoms of expression and accessibility of information. 
+This issue clearly resonated with me as someone who plans on entering the ICT industry. As technology professionals we will most likely be playing some part in designating, managing or implementing systems which incorporate rules such as those discussed during this session. This experience has highlighted the importance of considering all aspects when making technical decisions – namely ensuring that we are conscious of both positive impacts as well as potential negative outcomes of regulating technology.
 
 ---
 
@@ -85,5 +95,6 @@ eSafety Commissioner 2026, *Basic Online Safety Expectations*, Australian Govern
 Wakim, M & Baronio, J 2025, *Social Media Ban Q&A*, ABC Behind the News, viewed 20 September 2026, https://www.abc.net.au/btn/high/social-media-ban-q-a/105892142.
 
 # AI Use Statement
-
-I used AI during the planning and research stage to help identify relevant artefacts and organise ideas. I checked the information against the original sources and edited the final content so that it reflects my own learning and understanding.
+During the planning & research phase of this activity, I have used AI to find relevant artefacts and organisation ideas.
+To ensure accuracy and consistency with the source material, I have checked the information from these sources and revised and edited the content appropriately, ensuring that it reflects my own learning and understanding.
+To ensure accuracy and consistency with the source material, I have checked the information from these sources and revised and edited the content appropriately, ensuring that it reflects my own learning and understanding.
