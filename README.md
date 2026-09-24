@@ -24,7 +24,7 @@ I chose this artefact because it showed me that government involvement in online
 
 ## Artefact 2: ABC News – Social Media Ban Q&A
 
-![ABC Screenshot](PASTE_YOUR_SCREENSHOT_HERE)
+![Artefact 2](5308050232186707974_121.jpg)
 
 Source: https://www.abc.net.au/btn/high/social-media-ban-q-a/105892142
 
