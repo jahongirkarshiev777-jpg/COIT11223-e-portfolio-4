@@ -64,7 +64,7 @@ I chose this article because it helped me understand censorship as more than sim
 
 **Date:** *(Write your workshop date)*
 
-![Workshop Selfie](PASTE_YOUR_SELFIE_HERE)
+![Date:](5308050232186707998_121.jpg)
 
 ### Summary of the artefact
 
